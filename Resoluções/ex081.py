@@ -1,4 +1,4 @@
-lista = []
+lista = list()
 resposta = ''
 while resposta != 'n':
     n = int(input('Digite um valor: '))

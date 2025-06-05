@@ -1,4 +1,4 @@
-lista = []
+lista = list()
 n = str(input('Digite a expressão: '))
 for i in n:
     if i == '(':

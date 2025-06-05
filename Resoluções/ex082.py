@@ -1,6 +1,6 @@
-lista = []
-par = []
-impar = []
+lista = list()
+par = list()
+impar = list()
 resposta = ''
 while resposta != 'n':
     n = int(input('Digite um número: '))
